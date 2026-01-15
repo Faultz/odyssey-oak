@@ -36,8 +36,8 @@ This project demonstrates the integration of `liborbisrender`, `liborbisutil`, a
 ## Project Structure
 
 ```
-odyssey-game/
-├── odyssey-game/          # Main application source
+odyssey-oak/
+├── odyssey-oak/          # Main application source
 │   ├── app.cpp           # Application implementation
 │   ├── app.h             # Application header
 │   ├── prx.cpp           # PRX entry point
@@ -70,7 +70,7 @@ odyssey-game/
 
 ### Build Steps
 
-1. Open `odyssey-game.sln` in Visual Studio
+1. Open `odyssey-oak.sln` in Visual Studio
 2. Select the desired configuration (Debug|ORBIS or Release|ORBIS)
 3. Build the solution (Ctrl+Shift+B)
 4. The compiled `.prx` and `.sprx` files will be output to the `ORBIS_Debug/` or `ORBIS_Release/` directory

@@ -1,5 +1,5 @@
 // stdafx.cpp : source file that includes just the standard includes
-// odyssey-game.pch will be the pre-compiled header
+// odyssey-oak.pch will be the pre-compiled header
 
 #include "stdafx.h"
 
